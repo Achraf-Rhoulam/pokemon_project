@@ -105,6 +105,15 @@ body {
   margin-bottom: 10px;
 }
 
+.details-pokemon{
+  padding: 20px;
+  border-radius: 10px;
+  margin: 30px;
+  background-color: rgb(155, 155, 155);
+  align-items: center;
+  text-align: center;
+}
+
 .card{
   align-items: center;
   height: 200px;
