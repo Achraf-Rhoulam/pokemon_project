@@ -42,7 +42,7 @@ body {
 
 .PokemonList {
   width: 100%;
-  max-width: 600px; /* Ajustez la largeur maximale selon vos préférences */
+  max-width: 600px;
   margin-bottom: 20px;
 }
 
@@ -58,7 +58,7 @@ body {
   border: 1px solid #ccc;
   border-radius: 5px;
   margin-right: 10px;
-  width: 300px; /* Ajustez la largeur selon vos préférences */
+  width: 300px;
 }
 
 .TypeSelect {
@@ -88,8 +88,8 @@ body {
 .PokemonCardContainer {
   margin-top: 40px;
   display: grid;
-  grid-template-columns: repeat(5, 1fr); /* 5 cartes par ligne */
-  grid-gap: 20px; /* Espacement entre les cartes */
+  grid-template-columns: repeat(5, 1fr); /* Répéter l'affichage des cartes 5 fois max par ligne*/
+  grid-gap: 20px;
 }
 
 .PokemonCard {
@@ -100,7 +100,7 @@ body {
 }
 
 .PokemonImage {
-  width: 100px; /* Taille de l'image */
+  width: 100px;
   height: 100px;
   margin-bottom: 10px;
 }
@@ -108,7 +108,7 @@ body {
 .card{
   align-items: center;
   height: 200px;
-  max-width: 12rem; /* Définir la largeur maximale de la carte */
+  max-width: 12rem;
   margin: 0 auto;
   cursor: pointer;
 }
