@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# pokemon_project
+Ce projet est un Pokédex développé en utilisant React, une bibliothèque JavaScript populaire pour la création d'interfaces utilisateur. Il permet aux utilisateurs de rechercher des Pokémon par leur nom, leur numéro d'identification ou leur type, et d'afficher les détails de chaque Pokémon sélectionné.
+>>>>>>> 21658acd2f6e4940547c69880554af9b0dc78acd
